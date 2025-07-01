@@ -3,7 +3,7 @@
 
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
-- 💢 Me Especializando em React.js
+- 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 
 ## 📎 Experiencias 
