@@ -1,4 +1,4 @@
-## Hi there, I'm SleepyLine
+## Hi, I'm SleepyLine
 ### 💻 Developer Systems Student and enthusiast
 
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
