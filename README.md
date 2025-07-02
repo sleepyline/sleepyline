@@ -25,6 +25,10 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" title="Node.js">
 </div>
 
+##
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
+
 ## Contato
 
 <div> 
@@ -34,8 +38,3 @@
  <a href="https://www.linkedin.com/in/tiagosleepyline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:seuemail@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
-## Grafico 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
-
