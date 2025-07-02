@@ -1,10 +1,6 @@
 ## Hi, I'm SleepyLine
 
-<div>
-  <a href="https://github.com/sleepyline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sleepyline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyline&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
 
 ### Developer Systems Student and enthusiast
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
