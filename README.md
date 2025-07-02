@@ -1,5 +1,4 @@
 ## Hi, I'm SleepyLine
-### 💻 Developer Systems Student and enthusiast
 
 <div>
   <a href="https://github.com/sleepyline">
@@ -7,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyline&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### 💻 Developer Systems Student and enthusiast
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
 - 💢 Me especializando em React.js
