@@ -7,7 +7,7 @@
 - 🦀 Atualmente, estou focado em aprender Rust
 
 <div>
-  <a href="https://github.com/SthefannySantos">
+  <a href="https://github.com/sleepyline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SthefannySantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SthefannySantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
