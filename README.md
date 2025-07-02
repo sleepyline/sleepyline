@@ -1,16 +1,16 @@
 ## Hi, I'm SleepyLine
 ### 💻 Developer Systems Student and enthusiast
 
-- 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
-- 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
-- 💢 Me especializando em React.js
-- 🦀 Atualmente, estou focado em aprender Rust
-
 <div>
   <a href="https://github.com/sleepyline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sleepyline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyline&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+- 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
+- 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
+- 💢 Me especializando em React.js
+- 🦀 Atualmente, estou focado em aprender Rust
 
 ## 📎 Experiencias 
 
