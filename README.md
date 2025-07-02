@@ -6,13 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyline&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 💻 Developer Systems Student and enthusiast
+### Developer Systems Student and enthusiast
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 
-## 📎 Experiencias 
+## Experiencias 
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#">
@@ -31,7 +31,7 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" title="Node.js">
 </div>
 
-## 📫 Contato
+## Contato
 
 <div> 
   <a href="https://www.instagram.com/tiagoand7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
