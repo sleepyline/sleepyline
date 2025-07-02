@@ -1,7 +1,5 @@
 ## Hi, I'm SleepyLine
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
-
 ### Developer Systems Student and enthusiast
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
@@ -36,3 +34,8 @@
  <a href="https://www.linkedin.com/in/tiagosleepyline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:seuemail@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+## Grafico 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
+
