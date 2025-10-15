@@ -6,7 +6,7 @@
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 
-## Experiencias 
+## Experiências
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#">
