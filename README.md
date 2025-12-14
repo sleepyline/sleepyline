@@ -7,9 +7,6 @@
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 ### Desenvolvedor Principal do ```Project Vigilant```
-[![Vigilant GitHub Repository](https://github.com/VigiLant-DTTC/Vigilant)
-
-<img width="3000" height="3000" alt="VIGILANTLK" src="https://github.com/user-attachments/assets/4456c279-bfdb-4ccc-bebd-6b7e80870b82" />
 
 ## Experiências
 
