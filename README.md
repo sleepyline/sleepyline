@@ -2,7 +2,6 @@
 
 ### Desenvolvedor Estudante e entusiasta de sistemas
 - Criador Principal do Vigilant
-
 - 💻 Desenvolvedor .NET Fullstack com 2 anos de experiência.
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
 - 💢 Me especializando em React.js
@@ -30,6 +29,14 @@
 ##
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyline&theme=tokyonight)
+
+## Projetos em Destaque
+
+| Projeto | Descrição | Status |
+| :--- | :--- | :--- |
+| **Vigilant** | Sistema de gerenciamento de frotas e ativos com .NET e React. | Em Desenvolvimento |
+
+[![GitHub Repository](https://img.shields.io/badge/Vigilant-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/sleepyline/Vigilant)
 
 ## Contato
 
