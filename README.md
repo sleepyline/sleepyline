@@ -7,8 +7,8 @@
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 ### Desenvolvedor Principal do ```Project Vigilant```
-* [Link para o repositório principal Awesome no GitHub]([https://github.com/VigiLant-DTTC/Vigilant])
-
+* [Link para o repositório principal Awesome no GitHub](https://github.com/sindresorhus/awesome)
+* 
 ## Experiências
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
