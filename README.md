@@ -11,7 +11,7 @@
     <img src="https://github.com/VigiLant-DTTC.png" alt="Logo da SUA_ORGANIZACAO" width="100" height="100" />
   </a>
 
-## Visite o projeto Vigilant
+## <img src="https://github.com/VigiLant-DTTC.png" alt="Logo da SUA_ORGANIZACAO" width="30" height="30" /> Visite o projeto Vigilant
 Confira todos os nossos projetos e repositórios em: **[SUA_ORGANIZACAO no GitHub](https://github.com/VigiLant-DTTC)**
 
 ## Experiências
