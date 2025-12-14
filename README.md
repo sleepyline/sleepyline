@@ -6,7 +6,7 @@
 - 🔭 Estudante e entusiasta de Ciência da Computação e Desenolvimento de sistemas
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
-### 🛡️ Desenvolvedor Principal do ```Project Vigilant```
+### Desenvolvedor Principal do ```Project Vigilant```
 [![GitHub Repository](https://img.shields.io/badge/Vigilant-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/sleepyline/Vigilant)
 
 ## Experiências
