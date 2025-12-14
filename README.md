@@ -8,6 +8,7 @@
 - 🦀 Atualmente, estou focado em aprender Rust
 ### Desenvolvedor Principal do ```Project Vigilant```
 [![GitHub Repository](https://img.shields.io/badge/Vigilant-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)]([https://github.com/sleepyline/Vigilant](https://github.com/VigiLant-DTTC/Vigilant))
+<img width="3000" height="3000" alt="VIGILANTLK" src="https://github.com/user-attachments/assets/0977213a-a07f-4a2f-8ec7-d061da0d867e" />
 
 ## Experiências
 
