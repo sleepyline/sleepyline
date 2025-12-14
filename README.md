@@ -7,11 +7,9 @@
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
   
-<p align="center">
   <a href="https://github.com/VigiLant-DTTC" title="Acesse o GitHub da SUA_ORGANIZACAO">
     <img src="https://github.com/VigiLant-DTTC.png" alt="Logo da SUA_ORGANIZACAO" width="100" height="100" />
   </a>
-</p>
 
 ## Visite o projeto Vigilant
 Confira todos os nossos projetos e repositórios em: **[SUA_ORGANIZACAO no GitHub](https://github.com/VigiLant-DTTC)**
