@@ -7,7 +7,7 @@
 - 💢 Me especializando em React.js
 - 🦀 Atualmente, estou focado em aprender Rust
 
-- ## 🌐 Meu Portfólio
+## 🌐 Meu Portfólio
 Confira meus trabalhos e trajetória em: **[portifoliovalim.netlify.app](https://portifoliovalim.netlify.app/#home)**
 
 ## <img src="https://github.com/VigiLant-DTTC.png" alt="Logo da SUA_ORGANIZACAO" width="30" height="30" /> Visite o projeto mais conhecido: Vigilant
