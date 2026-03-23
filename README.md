@@ -8,7 +8,7 @@
 - 🦀 Atualmente, estou focado em aprender Rust
 
 ## 🌐 Meu Portfólio
-Confira meus trabalhos e trajetória em: **[portifoliovalim.netlify.app](https://portifoliovalim.netlify.app/#home)**
+Confira meus trabalhos e trajetória em: **[Portifólio | TIAGO VALIM](https://portifoliovalim.netlify.app/#home)**
 
 ## <img src="https://github.com/VigiLant-DTTC.png" alt="Logo da SUA_ORGANIZACAO" width="30" height="30" /> Visite o projeto mais conhecido: Vigilant
 Confira o projeto em:  **[VigiLant no GitHub](https://github.com/VigiLant-DTTC)**
